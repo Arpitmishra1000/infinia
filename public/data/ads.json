@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-04T03:36:09.350Z",
+  "updatedAt": "2026-10-11T10:09:45.820Z",
   "ads": [
+    {
+      "id": "itOBfYYJFXxQrCcaQ9X7",
+      "title": "Navratri Greetings",
+      "type": "banner",
+      "active": true,
+      "priority": 1,
+      "mobileEnabled": true,
+      "desktopEnabled": true,
+      "openInNewTab": true,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvAWpBXiJbU9SeBhhiyBrzJUGWBfqcwWrLbT7tc09wGjzuVLxmOvmpkHaSeINxWAJLouiRjHg1nTNWjcimkGApcHr8BVgN8ZTDX3gOW0E6iowrPtZBDc-qLGLI9SUlfY7USMHhrA0_SJ5ZFwaKCxFcG8uWVeTiDGY4ly9WjoHkL1AQzH-6VHxUmlw6eKLw/s2067/1000078894.png",
+      "link": "/",
+      "createdAt": "2026-10-11T10:09:37.234Z",
+      "updatedAt": "2026-10-11T10:09:37.234Z"
+    },
     {
       "id": "fdqn8ijw6UBIADFKK4AK",
       "title": "advertisement demo",
