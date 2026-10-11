@@ -57,7 +57,7 @@ import {
   getEnglishArticles,
 } from "@/services/public/category.public.service";
 
-import EnglishArticlesSection from "@/components/EnglishArticlesSection"
+import EnglishArticlesSection from "@/components/EnglishArticlesSection";
 
 
 
