@@ -8,7 +8,7 @@ export const siteConfig = {
   description:
     "भारत की ताज़ा खबरें, ब्रेकिंग न्यूज़, राजनीति, खेल, बिजनेस, टेक्नोलॉजी, मनोरंजन, दुनिया और अन्य महत्वपूर्ण समाचार।",
 
-  url: "https://infiniabharatnews.vercel.app",
+  url: "https://infiniabharat.netlify.app",
 
   // 1200x630 image — SEO / Open Graph / Social Sharing
   logo: "/logo.webp",
