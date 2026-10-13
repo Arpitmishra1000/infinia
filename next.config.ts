@@ -9,6 +9,10 @@ const nextConfig: NextConfig = {
     "firebase-admin",
   ],
 
+  outputFileTracingIncludes: {
+    "/*": ["./public/data/**/*.json"],
+  },
+
   images: {
     unoptimized: true,
 
